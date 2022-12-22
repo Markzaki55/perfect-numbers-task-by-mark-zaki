@@ -1,0 +1,15 @@
+C:\Users\Dream CE\source\repos\mark zaki perfect numbers\mark zaki perfect numbers\bin\Debug\net6.0\mark zaki perfect numbers.exe
+C:\Users\Dream CE\source\repos\mark zaki perfect numbers\mark zaki perfect numbers\bin\Debug\net6.0\mark zaki perfect numbers.deps.json
+C:\Users\Dream CE\source\repos\mark zaki perfect numbers\mark zaki perfect numbers\bin\Debug\net6.0\mark zaki perfect numbers.runtimeconfig.json
+C:\Users\Dream CE\source\repos\mark zaki perfect numbers\mark zaki perfect numbers\bin\Debug\net6.0\mark zaki perfect numbers.dll
+C:\Users\Dream CE\source\repos\mark zaki perfect numbers\mark zaki perfect numbers\bin\Debug\net6.0\mark zaki perfect numbers.pdb
+C:\Users\Dream CE\source\repos\mark zaki perfect numbers\mark zaki perfect numbers\obj\Debug\net6.0\mark zaki perfect numbers.csproj.AssemblyReference.cache
+C:\Users\Dream CE\source\repos\mark zaki perfect numbers\mark zaki perfect numbers\obj\Debug\net6.0\mark zaki perfect numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dream CE\source\repos\mark zaki perfect numbers\mark zaki perfect numbers\obj\Debug\net6.0\mark zaki perfect numbers.AssemblyInfoInputs.cache
+C:\Users\Dream CE\source\repos\mark zaki perfect numbers\mark zaki perfect numbers\obj\Debug\net6.0\mark zaki perfect numbers.AssemblyInfo.cs
+C:\Users\Dream CE\source\repos\mark zaki perfect numbers\mark zaki perfect numbers\obj\Debug\net6.0\mark zaki perfect numbers.csproj.CoreCompileInputs.cache
+C:\Users\Dream CE\source\repos\mark zaki perfect numbers\mark zaki perfect numbers\obj\Debug\net6.0\mark zaki perfect numbers.dll
+C:\Users\Dream CE\source\repos\mark zaki perfect numbers\mark zaki perfect numbers\obj\Debug\net6.0\refint\mark zaki perfect numbers.dll
+C:\Users\Dream CE\source\repos\mark zaki perfect numbers\mark zaki perfect numbers\obj\Debug\net6.0\mark zaki perfect numbers.pdb
+C:\Users\Dream CE\source\repos\mark zaki perfect numbers\mark zaki perfect numbers\obj\Debug\net6.0\mark zaki perfect numbers.genruntimeconfig.cache
+C:\Users\Dream CE\source\repos\mark zaki perfect numbers\mark zaki perfect numbers\obj\Debug\net6.0\ref\mark zaki perfect numbers.dll
